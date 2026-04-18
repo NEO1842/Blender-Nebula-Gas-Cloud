@@ -60,7 +60,7 @@ This project is licensed under the MIT License.
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk">
-<img src="BlenderNebula%20Gas%20Cloud/Nebula%20Gas%20Cloud.png" width="600">
+<img src="Blender%20Nebula%20Gas%20Cloud/Nebula%20Gas%20Cloud.png" width="600">
 </a>
 </p>
 
