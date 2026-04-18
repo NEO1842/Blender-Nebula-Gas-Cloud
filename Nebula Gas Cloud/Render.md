@@ -1,18 +1,18 @@
 ---English---
 
-This is a Blender scene for creating a cyber core using geometry nodes.
+This is a Blender scene for creating a nebula gas cloud using shader nodes.
 
-Rendering settings: 
+Rendering settings:
 
-Rendering engine: Cycles, 
+Rendering Engine: Cycles
 
-Sampling rate: 1024, 
+Sampling Rate: 1024
 
-Denoising: Yes.
+Denoising: Enabled
 
-Check out the video! 
+Check out the video!
 
-https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk
+
 
 ---日本語---
 
