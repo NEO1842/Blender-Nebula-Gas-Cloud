@@ -28,6 +28,12 @@ It uses Shader Nodes to generate mysterious gas-like formations and vibrant, col
 
 The scene can be freely modified and used for learning Blender shader workflows or for creating similar visual styles.
 
+## Features
+
+- Procedural shader-based nebula setup
+- Customizable colors and density
+- Useful for learning shader workflows and visual experimentation
+
 # Software Requirement
 
 Blender Version 3.6 LTS
@@ -59,7 +65,7 @@ This project is licensed under the MIT License.
 <h1 align="center">Blender Nebula Gas Cloud</h1>
 
 <p align="center">
-✨ シェーダーノードのみを使用して、複雑で混沌とした宇宙星雲を作成する。
+✨ シェーダーノードのみで、複雑で混沌とした宇宙星雲を生成します。
 </p>
 
 <p align="center">
@@ -72,7 +78,7 @@ This project is licensed under the MIT License.
 </a>
 </p>
 
-# Blender-Nebula-Gas-Cloud
+# Blender-星雲ガス雲
 
 シェーダーノードを使用して作成された、星雲ガス雲のBlenderシーンです。  
 
@@ -83,6 +89,12 @@ This project is licensed under the MIT License.
 シェーダーノードを使用して、神秘的なガス状の構造や鮮やかでカラフルな雲の効果を生成します。
 
 Blenderのシェーダー構成の学習や、ビジュアル制作のベースとして自由に改変して使用できます。
+
+## 特徴
+
+- シェーダーノードによるプロシージャルな星雲生成
+- 色や密度の調整が可能
+- シェーダーワークフローの学習やビジュアル実験に適しています
 
 # ソフトウェア要件
 
