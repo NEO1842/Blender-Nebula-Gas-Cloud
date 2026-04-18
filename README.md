@@ -1,7 +1,7 @@
 <h1 align="center">Blender Procedural Nebula Gas Cloud</h1>
 
 <p align="center">
-✨ Turn shader nodes into a cosmic nebula.
+✨ Create a complex, chaotic cosmic nebula using only shader nodes.
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 <h1 align="center">Blender Nebula Gas Cloud</h1>
 
 <p align="center">
-✨ シェーダーノードを宇宙の星雲に変える。
+✨ シェーダーノードのみを使用して、複雑で混沌とした宇宙星雲を作成する。
 </p>
 
 <p align="center">
