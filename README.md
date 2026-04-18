@@ -1,4 +1,8 @@
-<h1 align="center">Blender Nebula Gas Cloud</h1>
+<h1 align="center">Blender Procedural Nebula Gas Cloud</h1>
+
+<p align="center">
+✨ Turn shader nodes into a cosmic nebula.
+</p>
 
 <p align="center">
 ---English---     Click the image to watch the animation.
@@ -55,7 +59,11 @@ This project is licensed under the MIT License.
 <h1 align="center">Blender Nebula Gas Cloud</h1>
 
 <p align="center">
----日本語---     画像をクリックするとアニメーションが再生されます。
+✨ シェーダーノードを宇宙の星雲に変える。
+</p>
+
+<p align="center">
+---日本語---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画像をクリックするとアニメーションが再生されます。
 </p>
 
 <p align="center">
