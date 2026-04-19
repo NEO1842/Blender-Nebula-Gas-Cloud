@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
----English---     
+---English---     Click the image to watch the animation.
 </p>
 
-<p align="center">
+<div align="center">
+<a href="https://drive.google.com/file/d/1ZjkiXNOmY0fp1rC4G8ABcqsOgtDKMWmH/view?usp=drive_link">
 <img src="Blender%20Nebula%20Gas%20Cloud/Nebula%20Gas%20Cloud.png" width="600">
 </a>
 </p>
@@ -68,10 +69,11 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
----日本語---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+---日本語---     画像をクリックするとアニメーションが再生されます。
 </p>
 
-<p align="center">
+<div align="center">
+<a href="https://drive.google.com/file/d/1ZjkiXNOmY0fp1rC4G8ABcqsOgtDKMWmH/view?usp=drive_link">
 <img src="Blender%20Nebula%20Gas%20Cloud/Nebula%20Gas%20Cloud.png" width="600">
 </a>
 </p>
