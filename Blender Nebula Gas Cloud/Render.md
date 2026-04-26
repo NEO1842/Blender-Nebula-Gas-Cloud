@@ -39,8 +39,11 @@ Finally, to match the original animation’s colors, apply the modifiers on the 
 これは、シェーダーノードを使用して星雲ガス雲を作成できるBlenderシーンです。
 
 # 🛠 レンダリング設定
+
 レンダリングエンジン: Cycles
+
 サンプリング: 1024
+
 ノイズ除去: 有効
 
 🎬 プレビュー動画もぜひご覧ください！
